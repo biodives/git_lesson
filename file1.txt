@@ -1,0 +1,8 @@
+total 12
+drwxrwxr-x 3 bart bart 4096 Jun 23 10:09 ./
+drwxr-xr-x 6 bart bart 4096 Jun 23 10:08 ../
+-rw-rw-r-- 1 bart bart    0 Jun 23 10:09 file1.txt
+-rw-rw-r-- 1 bart bart    0 Jun 23 10:09 file2.txt
+-rw-rw-r-- 1 bart bart    0 Jun 23 10:09 file3.txt
+drwxrwxr-x 7 bart bart 4096 Jun 23 10:09 .git/
+first
